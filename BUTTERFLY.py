@@ -18,7 +18,7 @@ import math
 # In[13]:
 
 
-data_strong = pd.read_csv('/home/jay/BUTTERFLY/DATA/strong (Copy).csv')
+data_strong = pd.read_csv('strong (Copy).csv')
 
 ds = data_strong.dropna(subset=['  X (")','  Y (")', 'Date       Peak           (UT)', 'Brightness(K)', 'Position'])
 X_strong = ds['  X (")'] #arcsec
@@ -30,7 +30,7 @@ DATE_strong = ds['Date       Peak           (UT)'] #DATE-TIME
 # In[14]:
 
 
-data_weak = pd.read_csv('/home/jay/BUTTERFLY/DATA/weak.csv')
+data_weak = pd.read_csv('weak.csv')
 
 dw = data_weak.dropna(subset=['  X (")','  Y (")', 'Date       Peak           (UT)', 'Brightness(K)', 'Position'])
 X_weak = dw['  X (")'] #arcsec
