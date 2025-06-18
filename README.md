@@ -1,2 +1,3 @@
 # BUTTERFLY
-For a period of 11 years the number of sunspots change and its not known till date why it happens? This repository contains a  Python code to plot the sunspots across different times of the year yeilding a beautiful pattern like Butterfly also called as "Solar Butterfly diagram".
+For 11 years, the number of sunspots changed, and it's not known to date why it happens. This repository contains Python code to plot sunspots across different times of the year, yielding a beautiful pattern similar to a butterfly, also known as the "Solar Butterfly diagram".
+It uses the Nobeyama Radioheliograph Event List for importing the events and then plots the diagram using Pandas data frame
