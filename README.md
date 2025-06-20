@@ -4,4 +4,4 @@ It uses the Nobeyama Radioheliograph Event List (https://solar.nro.nao.ac.jp/nor
 
 
 
-![Alt text](https://github.com/jairamk10/BUTTERFLY/blob/main/Diagram.png)
+![Alt text](https://github.com/jairamk10/BUTTERFLY/blob/main/flappingButter.gif)
